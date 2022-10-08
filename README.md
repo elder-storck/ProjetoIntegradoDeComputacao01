@@ -1,2 +1,2 @@
-# ProjetoIntegradoDeComputa-o01
+# ProjetoIntegradoDeComputacao01
 Repositório para guardar projetos da disciplina "Projeto Integrado de Computação 1"
